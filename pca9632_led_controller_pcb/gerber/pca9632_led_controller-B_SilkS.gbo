@@ -1,0 +1,15 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,5.1.7*%
+%TF.CreationDate,2020-11-17T16:44:46+01:00*%
+%TF.ProjectId,pca9632_led_controller,70636139-3633-4325-9f6c-65645f636f6e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.1.7) date 2020-11-17 16:44:46*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 APERTURE END LIST*
+M02*
